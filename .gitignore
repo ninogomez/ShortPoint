@@ -1,0 +1,12 @@
+# IDE - VSCode
+.vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.tsbuild
+
+# Test results
+allure-results
+allure-report
+node_modules
